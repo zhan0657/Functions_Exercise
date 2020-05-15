@@ -78,10 +78,4 @@ const closings = ['with extra cheese', 'the end']
 // This is a fun exercise so... have fun!
 
 // Submission
-// Submit your complete and TESTED JavaScript file through the LMS. Name your file using this format:
-
-// FirstName_LastName_Function_Assignment.js
-
-// Example:
-
-// Tony_Davidson_Function_Assignment.js
+// Submit your GitHub repo URL through the LMS.
