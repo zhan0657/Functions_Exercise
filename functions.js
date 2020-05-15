@@ -40,7 +40,7 @@ const closings = ['with extra cheese', 'the end']
 // Using the provided getRandomInteger function you will randomly use content from each array based on the random number returned by getRandomInt.
 // Because you are using an array the minimum value should always be zero
 // The maximum value should be the array length - 1
-//
+
 // The sentence created (concatinated) inside this function should be structured like this:
 //      Get a random element from the openings array and add it to your new sentence
 //      add a space (and  punctuation if you wish)
@@ -81,7 +81,7 @@ const closings = ['with extra cheese', 'the end']
 // Submit your complete and TESTED JavaScript file through the LMS. Name your file using this format:
 
 // FirstName_LastName_Function_Assignment.js
-//
+
 // Example:
-//
+
 // Tony_Davidson_Function_Assignment.js
