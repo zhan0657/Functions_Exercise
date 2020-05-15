@@ -14,7 +14,7 @@ const adverbs = ['menacingly', 'intentionally']
 
 const adjectives = ['wild', 'slippery']
 
-const proNouns = ['they', 'we', 'you', 'he', 'she', 'I']
+const proNouns = ['they', 'we', 'you', 'he', 'she', 'I', 'it']
 
 const openings = ['Once upon a time', 'I watched']
 
