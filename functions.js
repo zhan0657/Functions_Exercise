@@ -30,7 +30,7 @@ const closings = ['with extra cheese', 'the end']
 // Functions:
 
 // First function:
-// Create a function that outputs the value sent to it using console.log()
+// Create a function that outputs the text/value sent to it using console.log()
 // There should be a newline ("\n") both before and after the value is output
 // Name this function appropriately
 // Note this function does not return any value
